@@ -29,7 +29,7 @@ git clone https://github.com/pulsarbf/mmo-quest-bot.git
 cd mmo-quest-bot
 ```
 
-Или скачайте ZIP: [Download](https://github.com/pulsarbf/mmo-quest-bot/archive/refs/heads/main.zip)
+Или скачайте ZIP.
 
 ### Шаг 2: Создайте файл с настройками
 
